@@ -5,6 +5,6 @@
 - 📬 Reach out to me on following mediums
      1. LinkedIn: https://www.linkedin.com/in/sukrutb
      2. Email: sbidwai@binghamton.edu | s.bidwaiusa@gmail.com
-        -> I'll make sure to reply you within a 24hrs !
+        -> I'll make sure to reply you within 24hrs !
 - 👨🏻‍🎓 Pursuing Masters in Computer Science from SUNY - Binghamton University, New York, USA
 - ⚡️ Actively looking for Software Development | Software Engineering Internships in United States 🇺🇸
