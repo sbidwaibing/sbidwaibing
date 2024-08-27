@@ -8,7 +8,7 @@
 ### Technical Skills
 
     Languages: Java, C++
-    
+
     Software and OS: VS Code, Jira, Git [GitHub / GitLab], Linux, Windows 
     
     Additional: Design Patterns, Data Structures and Algorithms, Object Oriented Programming, Hadoop
@@ -31,12 +31,12 @@
     / Design Implementation
 
 ### Contact:
-    Reach out to me on the following mediums & I'll make sure to reply within 6hrs !
+    Reach out to me on the following mediums & I'll make sure to reply within 6hrs!
      1. Email: sbidwai@binghamton.edu | s.bidwaiusa@gmail.com 
      2. LinkedIn: https://www.linkedin.com/in/sukrutb 
 
 ### Recent Activity:
-    Currently, Pursuing Master of Science in Computer Science from SUNY - Binghamton University, New York, United States
+    Currently, Pursuing a Master of Science Degree in Computer Science from SUNY - Binghamton University, New York, United States
     Actively looking for Software Development | Software Engineering Full-Time Opportunities in the United States
 
 ### Note:
