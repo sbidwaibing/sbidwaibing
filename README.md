@@ -1,7 +1,7 @@
 ```
 Hi | Hola | Bonjour | Namaste
 I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
-********************************************************************
+**************************************************************************************************************
 
 > Academics
     Master of Science in Computer Science (ongoing) Aug 2023 - May 2025 (Binghamton, US)
@@ -9,7 +9,7 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
     Diploma in Computer Engineering                 Aug 2016 - May 2019 (Pune, IN)
 
 > Technical Skills
-    Please refer to my website/resume for the latest technical skills listing, 
+    Please refer to my website/resume for the latest technical skills listing. 
     Website + Resume available at - https://sbidwaibing.github.io/SukrutB
 
 > Collaborations:
@@ -17,7 +17,7 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
     / Design Implementation
 
 > Contact:
-    Reach out to me using the emails listed below, and I'll make sure to reply within 6 hours.
+    Please reach out to me using the email addresses listed below, and I'll respond within 6 hours.
     Email: sbidwai@binghamton.edu | s.bidwai2000@gmail.com (Best way)
 
 > Recent Activity:
@@ -25,7 +25,7 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
     based in Binghamton, New York, United States
     
     Actively looking for Software Engineering Full-Time Opportunities in the United States
-********************************************************************
+**************************************************************************************************************
 
 > Note:
     The technical skills listed are based on my previous experience and current technologies used in projects. 
