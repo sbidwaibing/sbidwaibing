@@ -1,6 +1,7 @@
 ```
 Hi | Hola | Bonjour | Namaste
 I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
+
 **************************************************************************************************************
 
 > Academics
@@ -25,6 +26,7 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
     based in Binghamton, New York, United States
     
     Actively looking for Software Engineering Full-Time Opportunities in the United States
+
 **************************************************************************************************************
 
 > Note:
