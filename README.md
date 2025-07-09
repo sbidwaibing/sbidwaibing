@@ -5,7 +5,7 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
 **************************************************************************************************************
 
 > Academics
-    Master of Science in Computer Science (ongoing) Aug 2023 - May 2025 (Binghamton, US)
+    Master of Science in Computer Science (ongoing) Aug 2023 - Dec 2025 (Binghamton, US)
     Bachelor of Technology Computer Science         Aug 2019 - May 2022 (Pune, IN)
     Diploma in Computer Engineering                 Aug 2016 - May 2019 (Pune, IN)
 
@@ -15,7 +15,7 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
 
 > Collaborations:
     I’m looking forward to collaborating on a technical Project consisting of Java Backend Development 
-    / Design Implementation
+    / Design Implementation, Generative AI Applicative Research & Development
 
 > Contact:
     Please reach out to me using the email addresses listed below, and I'll respond within 6 hours.
@@ -30,11 +30,13 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
 **************************************************************************************************************
 
 > Note:
-    The technical skills listed are based on my previous experience and current technologies used in projects. 
+    The technical skills are listed on my portfolio's resume page.
+
+    The skills listed are based on my previous experience and the current technologies used in projects. 
     Irrelevant or extra technologies / Technical Stack has been eliminated to provide a clear view 
     and to save time for the user
 
-    I am a Software Engineer, not a User Interface Developer or Artist 
+    I am a Software Engineer,
     Therefore, this page prioritizes rendering essential information with minimal or no use of graphics 
 
 Thank You | Gracìas | Mercì | धन्यवाद
