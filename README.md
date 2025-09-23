@@ -1,12 +1,13 @@
 
 <!-- GITHUB-STATS:START -->
-### Sukrut's · GitHub Stats
-- **Total Stars earned:** `...`
-- **Total Commits (all time):** `...`
-- **Total Commits (last year):** `...`
-- **Total PRs authored:** `...`
-- **Total PRs merged:** `...`
+### Sukrut Bidwai · GitHub Stats
+- **Total Stars earned:** `1`
+- **Total Commits (all time):** `922`
+- **Total Commits (last year):** `839`
+- **Total PRs authored:** `2`
+- **Total PRs merged:** `1`
 <!-- GITHUB-STATS:END -->
+
 
 
 ```
