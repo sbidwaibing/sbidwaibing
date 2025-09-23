@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 2 * * *' # daily at 02:00 UTC (adjust if you want)
+    - cron: '0 5 * * *' # every day at 05:00 UTC (midnight ET)
   workflow_dispatch:
 
 permissions:
@@ -31,12 +31,12 @@ jobs:
       - name: Generate GitHub stats and update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_OWNER: sbidwaibing   # <- change to your GitHub username if different
+          GITHUB_OWNER: sbidwaibing   # update if your username is different
           README_PATH: README.md
         run: |
           python .github/scripts/generate_github_stats.py
-          
-     - name: Commit changes
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -47,4 +47,3 @@ jobs:
             git commit -m "chore: update GitHub stats"
             git push
           fi
-          
