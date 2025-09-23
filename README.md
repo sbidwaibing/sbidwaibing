@@ -53,4 +53,10 @@ Thank You | Gracìas | Mercì | धन्यवाद
 ```
 
 <!-- GITHUB-STATS:START -->
-
+### Sukrut Bidwai · GitHub Stats
+- **Total Stars earned:** `1`
+- **Total Commits (all time):** `919`
+- **Total Commits (last year):** `836`
+- **Total PRs authored:** `2`
+- **Total PRs merged:** `1`
+<!-- GITHUB-STATS:END -->
