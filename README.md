@@ -1,13 +1,14 @@
 <!-- GITHUB-STATS:START -->
 ### Sukrut's · Github Stats
- | Metrics                    | Count |
- |----------------------------|-------|
-| Total Stars earned         | `1` |
-| Total Commits (all time)   | `924` |
-| Total Commits (last year)  | `841` |
-| Total PRs authored         | `2` |
-| Total PRs merged           | `1` |
+ | Metrics                     | Count |
+ |-----------------------------|-------|
+|> Total Stars earned         | `1` |
+|> Total Commits (All Time)   | `925` |
+|> Total Commits (Last Year)  | `842` |
+|> Total PRs authored         | `2` |
+|> Total PRs merged           | `1` |
 <!-- GITHUB-STATS:END -->
+
 
 
 
