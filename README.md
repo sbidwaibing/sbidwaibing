@@ -1,10 +1,11 @@
 
 ### Sukrut's · Github Stats
-- **Total Stars earned:** `...`
-- **Total Commits (all time):** `...`
-- **Total Commits (last year):** `...`
-- **Total PRs authored:** `...`
-- **Total PRs merged:** `...`
+<!-- GITHUB-STATS:START-->
+- Total Stars earned: <!--stars-->
+- Total Commits (all time): <!--commits-->
+- Total Commits (last year): <!--commits_year-->
+- Total PRs authored: <!--prs-->
+- Total PRs merged: <!--prs_merged-->
 <!-- GITHUB-STATS:END -->
 
 ```
