@@ -105,12 +105,14 @@ def main():
     # Prepare replacement block
     stats_block = (
         "<!-- GITHUB-STATS:START -->\n"
-        "### Sukrut Bidwai · GitHub Stats\n"
-        f"- **Total Stars earned:** `{total_stars}`\n"
-        f"- **Total Commits (all time):** `{total_commits_all_time}`\n"
-        f"- **Total Commits (last year):** `{total_commits_last_year}`\n"
-        f"- **Total PRs authored:** `{total_prs}`\n"
-        f"- **Total PRs merged:** `{total_prs_merged}`\n"
+        "### Sukrut's · Github Stats\n"
+        " | Metrics                    | Count |\n"
+        " |----------------------------|-------|\n"
+        f"| Total Stars earned         | `{total_stars}` |\n"
+        f"| Total Commits (all time)   | `{total_commits_all_time}` |\n"
+        f"| Total Commits (last year)  | `{total_commits_last_year}` |\n"
+        f"| Total PRs authored         | `{total_prs}` |\n"
+        f"| Total PRs merged           | `{total_prs_merged}` |\n"
         "<!-- GITHUB-STATS:END -->\n"
     )
 
