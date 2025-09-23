@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbidwaibing)](https://github.com/anuraghazra/github-readme-stats)
 ```
 Hi | Hola | Bonjour | Namaste
 I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
