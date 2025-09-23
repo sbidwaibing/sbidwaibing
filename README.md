@@ -8,7 +8,7 @@
 <!-- GITHUB-STATS:END -->
 
 ```
-Hi | Hola | Bonjour | Namaste
+Hello | Namaste
 I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
 
 **************************************************************************************************************
