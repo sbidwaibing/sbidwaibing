@@ -1,13 +1,12 @@
 <!-- GITHUB-STATS:START -->
 ### Sukrut Bidwai · GitHub Stats
-| Metric                     | Count |
-|----------------------------|-------|
-| Total Stars earned         | `...` |
-| Total Commits (all time)   | `...` |
-| Total Commits (last year)  | `...` |
-| Total PRs authored         | `...` |
-| Total PRs merged           | `...` |
+- **Total Stars earned:** `1`
+- **Total Commits (all time):** `923`
+- **Total Commits (last year):** `840`
+- **Total PRs authored:** `2`
+- **Total PRs merged:** `1`
 <!-- GITHUB-STATS:END -->
+
 
 ```
 Hello | Namaste
