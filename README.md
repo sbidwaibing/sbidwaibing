@@ -1,4 +1,12 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbidwaibing&show=reviews,discussions_started,discussions_answered,prs_merged\&rank_icon=github\&show_icons=true)
+
+### Sukrut's · Github Stats
+- **Total Stars earned:** `...`
+- **Total Commits (all time):** `...`
+- **Total Commits (last year):** `...`
+- **Total PRs authored:** `...`
+- **Total PRs merged:** `...`
+<!-- GITHUB-STATS:END -->
+
 ```
 Hi | Hola | Bonjour | Namaste
 I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
@@ -41,4 +49,8 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
     Therefore, this page prioritizes rendering essential information with minimal or no use of graphics 
 
 Thank You | Gracìas | Mercì | धन्यवाद
+
 ```
+
+<!-- GITHUB-STATS:START -->
+
