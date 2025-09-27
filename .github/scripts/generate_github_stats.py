@@ -16,7 +16,6 @@ HEADERS["Accept"] = "application/vnd.github+json"
 API = "https://api.github.com"
 
 def paged_get(url, params=None):
-    """Yield items across paginated GETs (per_page=100)."""
     if params is None:
         params = {}
     params["per_page"] = 100
@@ -27,7 +26,6 @@ def paged_get(url, params=None):
         resp.raise_for_status()
         data = resp.json()
         if not isinstance(data, list):
-            # not a list -> return once
             yield data
             return
         if not data:
@@ -46,8 +44,6 @@ def sum_stars(repos):
     return sum(r.get("stargazers_count", 0) for r in repos)
 
 def count_commits_for_repo(owner, repo_name, since=None):
-    # Count commits authored by OWNER (commits with author=owner login)
-    # Note: This counts commits where the commit author is the same login.
     url = f"{API}/repos/{owner}/{repo_name}/commits"
     params = {"author": owner}
     if since:
@@ -58,7 +54,6 @@ def count_commits_for_repo(owner, repo_name, since=None):
     return count
 
 def search_count(query):
-    # Uses the search API which returns total_count
     url = f"{API}/search/issues"
     params = {"q": query, "per_page": 1}
     resp = requests.get(url, headers=HEADERS, params=params)
@@ -72,7 +67,6 @@ def main():
     total_stars = sum_stars(repos)
     print(f"Found {len(repos)} repos. Total stars: {total_stars}")
 
-    # commits last year
     one_year_ago = datetime.utcnow() - timedelta(days=365)
     since_iso = one_year_ago.isoformat() + "Z"
 
@@ -83,14 +77,12 @@ def main():
         name = r["name"]
         try:
             c_last = count_commits_for_repo(OWNER, name, since=since_iso)
-            c_all = count_commits_for_repo(OWNER, name, since=None)
+            c_all = count_commits_for_repo(OWNER, name)
             total_commits_last_year += c_last
             total_commits_all_time += c_all
         except requests.HTTPError as e:
             print(f"Warning: failed to count commits for {name}: {e}")
 
-    # PRs authored (and merged)
-    # Use the Search API: type:pr author:OWNER
     prs_authored_q = f"type:pr author:{OWNER}"
     prs_merged_q = f"type:pr author:{OWNER} is:merged"
 
@@ -102,7 +94,6 @@ def main():
         total_prs = 0
         total_prs_merged = 0
 
-    # Prepare replacement block
     stats_block = (
         "<!-- GITHUB-STATS:START -->\n"
         "### Sukrut's · Github Stats\n"
@@ -116,7 +107,6 @@ def main():
         "<!-- GITHUB-STATS:END -->\n"
     )
 
-    # Read README and replace between markers
     if not os.path.exists(README_PATH):
         print(f"Error: README not found at {README_PATH}", file=sys.stderr)
         sys.exit(1)
@@ -132,7 +122,6 @@ def main():
         _, _, post = rest.partition(end_marker)
         new_readme = pre + stats_block + post
     else:
-        # markers not found, add block at top
         new_readme = stats_block + "\n" + readme
 
     with open(README_PATH, "w", encoding="utf-8") as f:
