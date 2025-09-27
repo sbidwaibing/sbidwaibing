@@ -3,10 +3,15 @@ name: Update GitHub Stats
 on:
   push:
     branches:
-      - main
+      - '**'         # run on any push to any branch
+  pull_request:
+    branches:
+      - '**'         # also run on PRs
   schedule:
     - cron: '0 5 * * *' # every day at 05:00 UTC (midnight ET)
-  workflow_dispatch:
+  workflow_dispatch:      # manual trigger
+  repository_dispatch:    # trigger via API/CLI
+    types: [update-stats]
 
 permissions:
   contents: write
@@ -36,7 +41,7 @@ jobs:
         run: |
           python .github/scripts/generate_github_stats.py
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -45,5 +50,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update GitHub stats"
-            git push
+            git pull --rebase origin main   # ✅ fix push rejected issue
+            git push origin main
           fi
