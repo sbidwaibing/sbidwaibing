@@ -9,14 +9,6 @@
 |> Total PRs merged           | `1` |
 <!-- GITHUB-STATS:END -->
 
-
-
-
-
-
-
-
-
 ```
 Hello | Namaste
 I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
@@ -58,7 +50,7 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
     I am a Software Engineer,
     Therefore, this page prioritizes rendering essential information with minimal or no use of graphics 
 
-Thank You | Gracìas | Mercì | धन्यवाद
+Thank You | धन्यवाद
 
 ```
 
