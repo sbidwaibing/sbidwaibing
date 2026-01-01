@@ -3,11 +3,12 @@
  | Metrics                     | Count |
  |-----------------------------|-------|
 |> Total Stars earned         | `1` |
-|> Total Commits (All Time)   | `1328` |
-|> Total Commits (Last Year)  | `1225` |
+|> Total Commits (All Time)   | `1338` |
+|> Total Commits (Last Year)  | `1235` |
 |> Total PRs authored         | `2` |
 |> Total PRs merged           | `1` |
 <!-- GITHUB-STATS:END -->
+
 
 ```
 Hello | Namaste
