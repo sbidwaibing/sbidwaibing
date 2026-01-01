@@ -9,106 +9,6 @@
 |> Total PRs merged           | `1` |
 <!-- GITHUB-STATS:END -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 Hello | Namaste
 I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
@@ -116,7 +16,7 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
 **************************************************************************************************************
 
 > Academics
-    Master of Science in Computer Science (ongoing) Aug 2023 - Dec 2025 (Binghamton, US)
+    Master of Science in Computer Science           Aug 2023 - Dec 2025 (Binghamton, US)
     Bachelor of Technology Computer Science         Aug 2019 - May 2022 (Pune, IN)
     Diploma in Computer Engineering                 Aug 2016 - May 2019 (Pune, IN)
 
