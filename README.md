@@ -9,117 +9,6 @@
 |> Total PRs merged           | `1` |
 <!-- GITHUB-STATS:END -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 Hello | Namaste
 I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
@@ -131,28 +20,30 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
     Bachelor of Technology Computer Science         Aug 2019 - May 2022 (Pune, IN)
     Diploma in Computer Engineering                 Aug 2016 - May 2019 (Pune, IN)
 
+> Work Experience:
+    1.7 Years + counting...! (1 x Product Based FTE, 2 Start-up Internships)
+
 > Technical Skills
     Please refer to my website/resume for the latest technical skills listing. 
-    Website + Resume available at - https://sbidwaibing.github.io/SukrutB
+    Website + Resume available at - https://sukrutbidwai.com
 
 > Collaborations:
-    I’m looking forward to collaborating on a technical Project consisting of Java Backend Development 
-    / Design Implementation, Generative AI Applicative Research & Development
+    I’m looking forward to collaborating on a technical Project consisting of Java Backend Engineering 
+    / Implementation, Generative AI Applicative Research & Development
 
 > Contact:
     Please reach out to me using the email addresses listed below, and I'll respond within 6 hours.
     Email: sbidwai@binghamton.edu | s.bidwai2000@gmail.com (Best way)
 
 > Recent Activity:
-    Currently, pursuing a Master of Science Degree in Computer Science from SUNY - Binghamton University, 
-    based in Binghamton, New York, United States
+    Currently, working as an Engineering lead @ QuickSlot Health Inc.
     
     Actively looking for Software Engineering Full-Time Opportunities in the United States
 
 **************************************************************************************************************
 
 > Note:
-    The technical skills are listed on my portfolio's resume page.
+    The technical skills are listed on my portfolio page.
 
     The skills listed are based on my previous experience and the current technologies used in projects. 
     Irrelevant or extra technologies / Technical Stack has been eliminated to provide a clear view 
