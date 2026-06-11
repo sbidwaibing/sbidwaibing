@@ -9,62 +9,11 @@
 |> Total PRs merged           | `1` |
 <!-- GITHUB-STATS:END -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
-Hello | Namaste
+Hello | Hola | Bonjour 
 I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
 
-**************************************************************************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 > Academics
     Master of Science in Computer Science           Aug 2023 - Dec 2025 (Binghamton, US)
@@ -88,10 +37,9 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
 
 > Recent Activity:
     Currently, working as an Engineering lead @ QuickSlot Health Inc.
-    
-    Actively looking for Software Engineering Full-Time Opportunities in the United States
+    & Actively looking for Software Engineering Full-Time Opportunities in the United States
 
-**************************************************************************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 > Note:
     The technical skills are listed on my portfolio page.
@@ -104,6 +52,8 @@ I'm Sukrut Bidwai | Software Engineer | Lecturer | Technical Speaker
     Therefore, this page prioritizes rendering essential information with minimal or no use of graphics 
 
 Thank You | धन्यवाद
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ```
 
