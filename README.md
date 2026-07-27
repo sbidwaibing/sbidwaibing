@@ -4,10 +4,11 @@
  |-----------------------------|-------|
 |> Total Stars earned         | `2` |
 |> Total Commits (All Time)   | `1687` |
-|> Total Commits (Last Year)  | `906` |
+|> Total Commits (Last Year)  | `902` |
 |> Total PRs authored         | `3` |
 |> Total PRs merged           | `1` |
 <!-- GITHUB-STATS:END -->
+
 
 
 
